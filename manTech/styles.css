@@ -1,0 +1,36 @@
+/* sorablr card al its ccss is here   */
+
+.grid-margin {
+  margin-bottom: 2rem;
+}
+
+.stretch-card {
+  /* display: -webkit-box; */
+  /* display: -ms-flexbox; */
+  /* display: flex; */
+  -webkit-box-align: stretch;
+  /* -ms-flex-align: stretch; */
+  align-items: stretch;
+  /* -webkit-box-pack: stretch; */
+  /* -ms-flex-pack: stretch; */
+  justify-content: stretch;
+}
+.stretch-card .card a{
+  color: rgb(7, 7, 7); 
+}
+
+
+/* another 3 scrollable bar from world 2 =======================================  */
+.box{
+  position:relative;
+}
+
+.img-title{
+  position: absolute;
+  color: #fff;
+  text-align: center;
+  left: 0;
+  right: 0;
+  top: 10%;
+  letter-spacing: 3px;
+}
